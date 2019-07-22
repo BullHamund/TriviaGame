@@ -1,0 +1,16 @@
+body {
+    background-image: url("../images/hitch.jpeg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.container {
+    background-color: #4b9be1;
+    opacity: 0.5;
+    height: 600px;
+    margin-top: 50px;
+    border: groove;
+}
+#header {
+    color: #E3AB57;
+}
