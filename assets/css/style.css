@@ -6,14 +6,11 @@ body {
      
 }
 #subwrapper{
-   
     text-align: center;
     font-family: 'harlow_solidregular';
     font-style: italic;
     font-weight: bolder;
     color: #E3AB57;
-
-
 }
 h1 {
     color: #E3AB57;
@@ -24,11 +21,11 @@ h1 {
    
 }
 #start {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
-        height: 50px;
-        width: 100px;
-        color: #E3AB57;
-    }
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 50px;
+    width: 100px;
+    color: #E3AB57;
+}
