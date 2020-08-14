@@ -13,7 +13,7 @@ $(document).on('click', '#reset', function () {
 
 let questions = [{
     question: "What decidedly British beverage is Arthur Dent unable to find anywhere in the Universe?",
-    answers: ["Pimm's #1 Cup", "A pint of Bitter", "Tea", "London Dry Gin"],
+    answers: ["Pimm's Cup", "A pint of Bitter", "Tea", "London Dry Gin"],
     correctAnswer: "Tea"
   },
   {

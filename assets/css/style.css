@@ -11,10 +11,12 @@ body {
     font-style: italic;
     font-weight: bolder;
     color: #E3AB57;
+    font-size: 40px;
+
 }
 h1 {
     color: #E3AB57;
-    font-size: 76px;
+    font-size: 80px;
     font-family: 'harlow_solidregular';
     font-weight: bolder;
     text-align: center;
@@ -28,4 +30,10 @@ h1 {
     height: 50px;
     width: 100px;
     color: #E3AB57;
+}
+
+.answer-button {
+    font-family: 'harlow_solidregular';
+    color: #E3AB57;
+    font-size: 40px;
 }
