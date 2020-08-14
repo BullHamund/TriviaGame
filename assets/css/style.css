@@ -5,22 +5,27 @@ body {
     background-attachment: fixed;
      
 }
-.container {
+#subwrapper{
     background-color: #4b9be1;
     opacity: 0.5;
     height: 600px;
     margin-top: 50px;
     border: groove;
     border-color: #E3AB57;
+    text-align: center;
     font-family: 'harlow_solidregular';
     font-style: italic;
     font-weight: bolder;
+    color: #E3AB57;
+
 
 }
-#header {
+h1 {
     color: #E3AB57;
+    font-size: 76px;
     font-family: 'harlow_solidregular';
     font-weight: bolder;
+    text-align: center;
    
 }
 #start {
@@ -30,9 +35,5 @@ body {
         transform: translate(-50%, -50%);
         height: 50px;
         width: 100px;
-     
-}
-
-#question {
-    text-align: center;
-}
+        color: #E3AB57;
+    }
